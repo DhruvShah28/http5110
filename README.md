@@ -6,6 +6,8 @@ Intro to Web Development
 
 A link to The Humber College [Web Development](https://mediaarts.humber.ca/programs/web-development.html) Course
 
-`<h1>This is a Code sample</h1>`
+```html
+<h1>This is a Code sample</h1>
+```
 
 ![Php Photo](php.jpg)
